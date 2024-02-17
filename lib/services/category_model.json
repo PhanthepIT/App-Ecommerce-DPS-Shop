@@ -1,0 +1,42 @@
+{
+    "categories":[
+        {
+    "name" : "Notebook",
+    "subcategory" : [
+        "notebook working",
+        "notebook gaming"
+    ]
+  },
+{
+    "name":"Mouse",
+    "subcategory":[
+        "wireless mouse",
+        "wired mouse"
+    ]
+   },
+   {
+    "name":"Headphone",
+    "subcategory" :[
+
+    ]
+   },
+   {
+    "name":"Speaker",
+    "subcategory" :[
+
+    ]
+   },
+   {
+    "name":"Monitor",
+    "subcategory" :[
+
+    ]
+   },
+   {
+    "name":"Keyboard",
+    "subcategory" :[
+
+    ]
+   }
+  ]
+}
